@@ -1,4 +1,4 @@
-# 👋 Hi, I'm MD Kamran
+# 👋 Hi, I'm MD KAMRAN
 
 **Web Developer | Python Programmer** 🚀
 
@@ -66,8 +66,7 @@ I'm a full-stack developer who loves turning ideas into reality. I specialize in
 
 - 💼 **GitHub:** [@mdkamran623](https://github.com/mdkamran623)
 - 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
-- 🔗 **LinkedIn:** [Your Profile](#)
-- 🐦 **Twitter:** [@your-handle](#)
+- 🔗 **LinkedIn:** [(https://www.linkedin.com/in/md-kamran-365626373/)]
 
 ---
 
