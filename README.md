@@ -79,7 +79,6 @@ I'm a full-stack developer who loves turning ideas into reality. I specialize in
 ## 📫 Let's Connect!
 
 - 💼 **GitHub:** [@mdkamran623](https://github.com/mdkamran623)
-- 📧 **Email:** [mdkamran32386@gmail.com](mailto:mdkamran32386@gmail.com)
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/md-kamran-365626373/
 
 ---
